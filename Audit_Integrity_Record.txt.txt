@@ -1,0 +1,60 @@
+# AUDIT INTEGRITY RECORD & CHAIN OF CUSTODY
+# Project: Humanity's Last Hallucination (Jan 2026)
+# Author: Sammy Zeng
+
+========================================================================
+ NOTICE: INDEPENDENT FORENSIC AUDIT
+ This document certifies the cryptographic integrity of the benchmark 
+ audit report regarding GPQA and HLE scientific insolvency.
+========================================================================
+
+## 1. OFFICIAL RELEASE MANIFEST (v1.0)
+The following files constitute the official release of the audit findings. 
+Any modification to the files will result in a mismatch of the hash values below.
+
+------------------------------------------------------------------------
+[FILE A] ENGLISH EDITION (Primary Reference)
+FileName: Humanity’s Last Hallucination_A Forensic Audit of the Scientific Insolvency in GPQA and HLE_v1.pdf
+Status:   Peer-reviewed translation / Forensic Report
+SHA256:   D34091F7E973985A574905A5FB770CABC81066982335B44CE9E1DF00B0EB3F76
+MD5:      A5DCABA75594634CE5B4231240970A4C
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+[FILE B] CHINESE EDITION (Original Context)
+FileName: 人类最后幻觉_对 GPQA 与 HLE 科学失格的法医级清算_v1.pdf
+Status:   Original Manuscript / Philosophical Nuance Source
+SHA256:   F29A6F753DAEA9E5F27D78651C029A36E6FBF35FC10BA8566D1E404E7EAE34B2
+MD5:      EA453EA346FED6D694D3B875AFEC4524
+------------------------------------------------------------------------
+
+## 2. COMPLIANCE & INDEPENDENCE DECLARATION
+
+> Institutional Independence
+This audit was conducted without external corporate or institutional funding. 
+The findings are based solely on logic, mathematical verification, and 
+reproducible scripts.
+
+> Publication Policy Note
+Due to current endorsements requirements on pre-print servers (e.g., arXiv), 
+and the independent nature of this audit, this work is exclusively deposited 
+on Zenodo to ensure immutability and immediate public access.
+
+## 3. CONTACT & ATTRIBUTION
+
+- Author: Sammy Zeng
+- Contact: jop.sammy@163.com
+- ORCID:  0009-0007-4382-0040
+
+## 4. LICENSE
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+Permission is granted to reproduce, distribute, and audit this work, 
+provided the original author and checksum integrity are acknowledged.
+
+==================================================
+# END OF RECORD
+# "Truth does not depend on expert authority but 
+#  only belongs to runnable and reproducible 
+#  mathematical logic." -- Section 3.2.4
+==================================================
